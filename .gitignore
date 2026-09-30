@@ -17,3 +17,5 @@ HW.txt
 .agents/
 .claude/
 skills-lock.json
+.vercel
+.env*
